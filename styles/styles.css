@@ -133,6 +133,12 @@ p {
     border-radius: 5px;
     border: #D4C31C;
     background-color: #4299D4;
+    display: inline-block;      /* Agregamos 2do. */
+    transition: 0.3s;           /* Agregamos 2do. */
+}
+
+.btn:hover {                   /* Agregamos 2do. */
+    transform: scale(1.2);
 }
 
 /*Animación*/
