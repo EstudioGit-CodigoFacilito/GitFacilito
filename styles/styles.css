@@ -15,9 +15,7 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Raleway', sans-serif;
 }
 
-p {
-    font-weight: 300;
-}
+/* Se elimino la p 4to. */
 
 .content h1{
     font-family: 'Kaushan Script', cursive;
@@ -122,6 +120,7 @@ p {
 .infoContent .block{
     padding: 8px;
     width: 100%;
+    text-transform: uppercase;          /* Agregamos 4to. */
 }
 
 .infoContent .block .icon-social{
@@ -139,6 +138,7 @@ p {
 
 .btn:hover {                   /* Agregamos 2do. */
     transform: scale(1.2);
+    left-spacing: 3px;         /* Agregamoa 4to. */
 }
 
 /*Animación*/
