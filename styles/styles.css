@@ -130,7 +130,7 @@ h1,h2,h3,h4,h5,h6{
 .btn {                         /* Agregamos */
     padding: 10px 20px;
     border-radius: 5px;
-    border: #D4C31C;
+    border: 2px solid #D4C31C;        /* Agregamos 5to. Se agrego 2px solid */
     background-color: #4299D4;
     display: inline-block;      /* Agregamos 2do. */
     transition: 0.3s;           /* Agregamos 2do. */
