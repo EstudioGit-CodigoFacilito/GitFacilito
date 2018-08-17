@@ -132,8 +132,8 @@ h1,h2,h3,h4,h5,h6{
 .btn {                         /* Agregamos */
     padding: 10px 20px;
     border-radius: 5px;
-    border: 2px solid #D4C31C;        /* Agregamos 5to. Se agrego 2px solid */
-    background-color: #4299D4;
+    border: 2px solid #D42945;        /* Agregamos 5to. Se agrego 2px solid */  /* Cambio Noemi*/
+    background-color: #58D418;        /* Cambio Noemi*/
     display: inline-block;      /* Agregamos 2do. */
     transition: 0.3s;           /* Agregamos 2do. */
 }
